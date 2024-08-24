@@ -22,3 +22,9 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
+
+![Gmail Badge](https://img.shields.io/badge/-{denis.felopes@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{denis.felopes@gmail.com})
+[![Linkedin: Denis](https://img.shields.io/badge/-DenisFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denis-ferreira-a6978555/)](https://www.linkedin.com/in/denis-ferreira-a6978555/)
+
+
+![DenisFerrel GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisFerrel&show_icons=true&theme=dark) <br><br>
