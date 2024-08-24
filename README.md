@@ -3,8 +3,8 @@
 ## 💼 Perfil Profissional
 
 - 💻 Estudante autodidata de Programação
-- 🌱 Apaixonado por Tecnologia
-- 🎓 Estudanto cursos livres na Alura
+- 🌱 Aprendendo todo dia uma nova habilidade
+- 🎓 Estudando cursos livres na Alura
 
 ## 🚀 Habilidades
 
