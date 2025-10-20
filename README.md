@@ -5,6 +5,8 @@
 - 💻 Estudante autodidata de Programação
 - 🌱 Aprendendo todo dia uma nova habilidade
 - 🎓 Estudando cursos livres na Alura
+- Fundador do site: https://minha-saude.com/
+  
 
 ## 🚀 Habilidades
 
@@ -12,6 +14,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
