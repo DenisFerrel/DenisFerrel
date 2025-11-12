@@ -4,9 +4,9 @@
 
 - 💻 Estudante autodidata de Programação
 - 🌱 Aprendendo todo dia uma nova habilidade
-- 🎓 Estudando cursos livres na Alura
-- Fundador do site: https://minha-saude.com/
-  
+- 🎓 Estudando cursos livres na internet
+- 👤 Fundador do site: https://minha-saude.com/
+ 
 
 ## 🚀 Habilidades
 
