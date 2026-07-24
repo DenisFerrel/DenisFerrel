@@ -5,8 +5,7 @@
 - 💻 Estudante autodidata de Programação
 - 🌱 Aprendendo todo dia uma nova habilidade
 - 🎓 Estudando cursos livres na internet
-- 👤 Fundador dos sites:
-- Minha Saúde, uma plataforma de compartilhamento de exames com seu médico: https://minha-saude.com/
+- 👤 Fundador do site:
 - ComuniBit, uma comunidade de compartilhamento de conhecimento Cripto e um simulador de investimentos Cripto: https://www.comunibit.com.br/
  
 
